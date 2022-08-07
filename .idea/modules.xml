@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Krausel.iml" filepath="$PROJECT_DIR$/.idea/Krausel.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Manager.iml" filepath="$PROJECT_DIR$/.idea/modules/Manager.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Manager/.idea/modules/Manager-build.iml" filepath="$PROJECT_DIR$/Manager/.idea/modules/Manager-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Manager/.idea/modules/spark-sample.iml" filepath="$PROJECT_DIR$/Manager/.idea/modules/spark-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Manager/.idea/modules/spark-sample-build.iml" filepath="$PROJECT_DIR$/Manager/.idea/modules/spark-sample-build.iml" />
     </modules>
   </component>
 </project>
